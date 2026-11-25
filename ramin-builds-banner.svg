@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="596" height="75" viewBox="0 40 596 75" role="img" aria-label="ramin builds">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="96" viewBox="0 24 596 96" role="img" aria-label="ramin builds">
 
 <style>.rv{animation:rv 6s steps(57,end) infinite;transform-origin:0 0}@keyframes rv{0%{transform:scaleX(0)}40%,100%{transform:scaleX(1)}}.sh{animation:sh 3s ease-in-out 2.4s infinite}@keyframes sh{0%{transform:translateX(0)}60%,100%{transform:translateX(954px)}}@media (prefers-reduced-motion:reduce){.rv,.sh,.fl{animation:none}.sh{opacity:0}}</style>
 <defs>
