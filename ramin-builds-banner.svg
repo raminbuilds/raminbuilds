@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="596" height="96" viewBox="0 24 596 96" role="img" aria-label="ramin builds">
-<title>ramin builds</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="75" viewBox="0 40 596 75" role="img" aria-label="ramin builds">
+
 <style>.rv{animation:rv 6s steps(57,end) infinite;transform-origin:0 0}@keyframes rv{0%{transform:scaleX(0)}40%,100%{transform:scaleX(1)}}.sh{animation:sh 3s ease-in-out 2.4s infinite}@keyframes sh{0%{transform:translateX(0)}60%,100%{transform:translateX(954px)}}@media (prefers-reduced-motion:reduce){.rv,.sh,.fl{animation:none}.sh{opacity:0}}</style>
 <defs>
 <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="24" y1="0" x2="571.1999999999999" y2="0"><stop offset="0.000" stop-color="#00d2ff" /><stop offset="0.500" stop-color="#3a7bd5" /><stop offset="1.000" stop-color="#00f5a0" /></linearGradient>
