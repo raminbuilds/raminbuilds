@@ -9,12 +9,12 @@
 ### High school developer learning Full-Stack Web Development
 
 - ⚙️ I'm currently working on **a room-based chat web app**
-
 - 🌱 I'm currently learning **Python**
-
 - 🤝 I'm looking for help with **AI/ML and Game Development projects**
-
 - 😄 Fun fact: **I love jazz music**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
+</p>
