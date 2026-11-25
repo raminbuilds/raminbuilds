@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="826" height="160" viewBox="0 0 826 160" role="img" aria-label="Welcome to">
+<title>Welcome to</title>
+<style>.fl{animation:fl 8s linear infinite}@keyframes fl{to{transform:translateX(-1652px)}}@media (prefers-reduced-motion:reduce){.rv,.sh,.fl{animation:none}.sh{opacity:0}}</style>
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="24" y1="0" x2="801.6" y2="0"><stop offset="0.000" stop-color="#00d2ff"/><stop offset="0.500" stop-color="#3a7bd5"/><stop offset="1.000" stop-color="#00f5a0"/></linearGradient>
+<linearGradient id="gf" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2478" y2="0"><stop offset="0.000" stop-color="#00d2ff"/><stop offset="0.167" stop-color="#3a7bd5"/><stop offset="0.333" stop-color="#00f5a0"/><stop offset="0.500" stop-color="#3a7bd5"/><stop offset="0.667" stop-color="#00d2ff"/><stop offset="0.833" stop-color="#3a7bd5"/><stop offset="1.000" stop-color="#00f5a0"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="t"><text font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace' font-size="16" xml:space="preserve"><tspan x="24" y="37.1" textLength="777.6" lengthAdjust="spacingAndGlyphs"> __      __          ___                                          __             </tspan><tspan x="24" y="53.1" textLength="777.6" lengthAdjust="spacingAndGlyphs">/\ \  __/\ \        /\_ \                                        /\ \__          </tspan><tspan x="24" y="69.1" textLength="777.6" lengthAdjust="spacingAndGlyphs">\ \ \/\ \ \ \     __\//\ \     ___    ___     ___ ___      __    \ \ ,_\   ___   </tspan><tspan x="24" y="85.1" textLength="777.6" lengthAdjust="spacingAndGlyphs"> \ \ \ \ \ \ \  /'__`\\ \ \   /'___\ / __`\ /' __` __`\  /'__`\   \ \ \/  / __`\ </tspan><tspan x="24" y="101.1" textLength="777.6" lengthAdjust="spacingAndGlyphs">  \ \ \_/ \_\ \/\  __/ \_\ \_/\ \__//\ \L\ \/\ \/\ \/\ \/\  __/    \ \ \_/\ \L\ \</tspan><tspan x="24" y="117.1" textLength="777.6" lengthAdjust="spacingAndGlyphs">   \ `\___x___/\ \____\/\____\ \____\ \____/\ \_\ \_\ \_\ \____\    \ \__\ \____/</tspan><tspan x="24" y="133.1" textLength="777.6" lengthAdjust="spacingAndGlyphs">    '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/     \/__/\/___/ </tspan></text></clipPath>
+<clipPath id="r"><rect class="rv" x="0" y="0" width="826" height="160"/></clipPath>
+</defs>
+
+<g clip-path="url(#r)"><g clip-path="url(#t)">
+<rect class="fl" x="0" y="0" width="2478" height="160" fill="url(#gf)"/>
+
+</g></g>
+
+</svg>
